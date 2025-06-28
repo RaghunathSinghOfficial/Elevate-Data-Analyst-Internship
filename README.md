@@ -22,4 +22,4 @@ This repository serves as a central hub for all tasks completed during my Elevat
 ---
 
 ## About Me
-I am a passionate data enthusiast building my skills in data analysis and visualization.
+I am an aspiring Data Analyst passionate about transforming raw data into actionable insights. I'm actively building my portfolio through hands-on projects and continuous learning.
